@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-[![codeWars]
-(https://www.codewars.com/users/rsschool_51052cdce5b958c8/badges/micro)(https://www.codewars.com/users/rsschool_51052cdce5b958c8/badges)
-]
-
+[![codeWars](https://www.codewars.com/users/olesiabliznuk/badges/small?theme=light)](https://www.codewars.com/users/olesiabliznuk)
