@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> https://www.codewars.com/users/rsschool_51052cdce5b958c8/badges/micro
+
+
+[![codeWars]
+(https://www.codewars.com/users/rsschool_51052cdce5b958c8/badges/micro)
+]
+
